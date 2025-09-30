@@ -1,6 +1,6 @@
 # Question-Answering with LlamaIndex and Gemini
 
-This project is a question-answering system built with **LlamaIndex** and powered by **Google's Gemini** models. 🤖
+This project is a question-answering system built with **LlamaIndex** and powered by **Google's Gemini** models.
 
 It demonstrates how to create a simple Retrieval-Augmented Generation (RAG) pipeline. The notebook loads documents from a local directory, embeds them into a vector space, and then uses a query engine to answer questions based on the content of those documents.
 
